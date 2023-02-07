@@ -272,5 +272,9 @@ e952b772-80a5-41e9-b728-6bc4dc5c21b4
 </details>
 <details>
     <summary>Ahamefule Kenneth</summary>
+    <ul>
+    <li><a href="https://www.github.com/Kenobinna">Github</a></li>
+    <li><a href="mailto:obinnakay92@gmail.com">E-mail</a></li>
+    </ul>
    
 </details>
