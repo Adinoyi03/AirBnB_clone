@@ -263,14 +263,14 @@ e952b772-80a5-41e9-b728-6bc4dc5c21b4
 ```
 ## Authors
 <details>
-    <summary>Oladimeji Idrees</summary>
+    <summary>Muhammed Abdulrahaman Adinoyi</summary>
     <ul>
-    <li><a href="https://www.github.com/Idreex">Github</a></li>
+    <li><a href="https://www.github.com/Adinoyi03">Github</a></li>
     
-    <li><a href="mailto:idreesademola07@gmail.com">e-mail</a></li>
+    <li><a href="mailto:adinoyi360@gmail.com">e-mail</a></li>
     </ul>
 </details>
 <details>
-    <summary>Al-Hassan Oladimeji</summary>
+    <summary>Ahamefule Kenneth</summary>
    
 </details>
